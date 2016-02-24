@@ -15,4 +15,7 @@ cd /home/wwwroot/default/swoole-yaf/server
 php start.php start
 
 测试
+
+apt-get install httpie
+
 http http://127.0.0.1:9501/demo
