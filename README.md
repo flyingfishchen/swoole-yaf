@@ -13,3 +13,6 @@ Usage:php start.php start | stop | reload | restart | status | help
 cd /home/wwwroot/default/swoole-yaf/server
 
 php start.php start
+
+测试
+http http://127.0.0.1:9501/demo
