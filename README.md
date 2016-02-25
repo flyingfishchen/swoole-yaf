@@ -5,6 +5,7 @@ nginx用作反向代理，swoole_http_server 相当于PHP-FPM，压测性能比P
 
 ## 配置
 nginx<br>
+```
 server {
         server_name local.swoole.com;
         root /home/wwwroot/default/;
@@ -20,6 +21,7 @@ server {
             }
         }
 }
+```
 
 ## 运行
 Usage:php start.php start | stop | reload | restart | status | help<br>
