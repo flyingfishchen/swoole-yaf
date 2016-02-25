@@ -22,12 +22,12 @@ server {
 
 ## 运行
 Usage:php start.php start | stop | reload | restart | status | help<br>
-cd /home/wwwroot/default/swoole-yaf/server<br>
-php start.php start<br>
+```cd /home/wwwroot/default/swoole-yaf/server<br>```
+```php start.php start```
 
 ## 测试
-apt-get install httpie<br>
-http http://127.0.0.1:9501/demo<br>
+```apt-get install httpie```
+```http http://127.0.0.1:9501/demo```
 
 ## 输出
 HTTP/1.1 200 OK<br>
