@@ -4,7 +4,7 @@ nginx + swoole + yaf, 使用swoole内置swoole_http_server, 提供REST RPC，参
 nginx用作反向代理，swoole_http_server 相当于PHP-FPM，压测性能比PHP-FPM好，yaf框架以扩展形式提供MVC服务
 
 ## 配置
-nginx
+nginx<br>
 server {
         server_name local.swoole.com;
         root /home/wwwroot/default/;
