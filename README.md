@@ -23,12 +23,21 @@ http http://127.0.0.1:9501/demo
 输出
 
 HTTP/1.1 200 OK
+
 Connection: keep-alive
+
 Content-Length: 30
+
 Content-Type: application/json;charset=UTF-8
+
 Date: Thu, 25 Feb 2016 02:27:04 GMT
+
 Server: swoole-http-server
+
 X-RateLimit-Limit: 20
+
 X-RateLimit-Remaining: 5
+
+
 
 {"first": "one", "second": "two"}
