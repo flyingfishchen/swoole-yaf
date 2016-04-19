@@ -26,7 +26,7 @@ Usage:php start.php start | stop | reload | restart | status | help<br><br>
 ```php start.php start```
 
 ## 测试
-```apt-get install httpie```<br>
+```apt-get install httpie```<br><br>
 ```http http://127.0.0.1:9501/demo```
 
 ## 输出
