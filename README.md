@@ -26,7 +26,7 @@ Usage:
 php start.php start | stop | reload | restart | status | help
 
 
-```cd /home/wwwroot/default/swoole-yaf/server<br>```
+```cd /home/wwwroot/default/swoole-yaf/server```
 
 
 ```php start.php start```
