@@ -21,8 +21,14 @@ server {
 ```
 
 ## 运行
-Usage:<br><br>php start.php start | stop | reload | restart | status | help
-```cd /home/wwwroot/default/swoole-yaf/server<br>```<br><br>
+Usage:
+
+php start.php start | stop | reload | restart | status | help
+
+
+```cd /home/wwwroot/default/swoole-yaf/server<br>```
+
+
 ```php start.php start```
 
 ## 测试
